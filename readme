@@ -1,0 +1,20 @@
+Programación II
+Trabajo Practico No5
+HTML y CSS
+
+DESCRIPCIÓN: Crea un archivo HTML que contenga una estructura básica con
+etiquetas <html>, <head> y <body>. Agrega un encabezado (<h1>) y un párrafo
+(<p>) en el cuerpo de la página. Utiliza CSS para dar estilo al encabezado y al
+párrafo, como cambiar el color de fondo y el tamaño de la fuente.
+
+DESCRIPCIÓN: Crea una lista desordenada (<ul>) que funcione como una barra de
+navegación horizontal. Cada elemento de la lista (<li>) debe contener un enlace (<a>) a
+diferentes secciones de la página. Utiliza CSS para dar estilo a la lista de navegación, como
+agregar márgenes, cambiar el color de fondo y dar formato a los enlaces.
+
+DESCRIPCIÓN: Crea un formulario con los siguientes campos de información: Nombre,
+Apellido, UserName, Correo electrónico y password. Al darle al botón enviar salga una alert
+con el mensaje "Se envió correctamente"
+
+DESCRIPCIÓN:Crea una galería de imágenes. Al pasar el mouse en una imagen, debe
+mostrarse en grande o ampliarse.
